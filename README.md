@@ -1,3 +1,7 @@
+# 📊 Mobile Exercises
+
+Exercícios acadêmicos desenvolvidos durante a matéria de Desenvolvimento Mobile, com foco no aprendizado dos fundamentos do React Native.
+
 ### Estrutura de Pastas
 
 ```
